@@ -10,12 +10,12 @@
 <h1></h1>
 <p align="center">
 <a href="https://www.instagram.com/urihydrobotics/">
-  <img width="43" src="https://cdn-icons-png.flaticon.com/512/174/174855.png">
+  <img width="50" src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo681.png">
 </a>
 <a href="mailto:urihydrobotics@gmail.com">
-  <img width="50" src="https://images.squarespace-cdn.com/content/v1/5e431f0b0a8a9d7048374c51/7c1f73b9-eee5-4ab0-bf40-495006e1014a/EMAIL+BUTTON.png?format=500w">
+  <img width="50" src="https://icon-library.com/images/email-us-icon/email-us-icon-11.jpg">
 </a>
 <a href="https://discord.gg/2sFNWrVRms">
-  <img width="44" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png">
+  <img width="50" src="https://theme.zdassets.com/theme_assets/678183/84b82d07b293907113d9d4dafd29bfa170bbf9b6.ico">
 </a>
 </p>
