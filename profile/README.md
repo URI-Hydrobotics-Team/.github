@@ -9,4 +9,4 @@ Hydrobotics is a student-run club for undergraduates interested in all things ro
 ## Contact
 - [Instagram](https://www.instagram.com/urihydrobotics/)
 - [Email](mailto:urihydrobotics@gmail.com)
-- [Discord](https://discord.gg/2sFNWrVRms)
+- [Discord](https://discord.gg/6fJkDNTj7v)
